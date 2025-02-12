@@ -92,8 +92,7 @@ This tool is intended for educational and security research purposes only. **Una
 ## Contribution
 Contributions are welcome! Feel free to submit issues and pull requests on GitHub.
 
-## License
-MIT License
+
 
 ---
 **Author:** Maxwell Bosiako Antwi 
