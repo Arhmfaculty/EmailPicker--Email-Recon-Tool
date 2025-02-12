@@ -16,8 +16,6 @@ This tool is ideal for security researchers, penetration testers, and OSINT (Ope
 Before using EmailPicker, ensure you have the following installed:
 
 - Python 3.x
-- Required dependencies (install using the command below)
-
 
 
 ## Installation
